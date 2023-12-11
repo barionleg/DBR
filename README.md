@@ -7,6 +7,6 @@ SANITÆЯR ge© db₽Э€$ENTS: dbRAdio Building a 1920's Tube Amplifier And Tu
 
 [![logic part of detalj to lodgment](https://github.com/barionleg/DBR/assets/102619282/8a877e65-1458-479e-9d26-a85d72d04829)](https://www.youtube.com/watch?v=NiuimHYynAA)
 
-*barionleg CEO ₾ი*
+*barionleg ₾EO ₾ი*
 
 
