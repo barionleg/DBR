@@ -1,7 +1,7 @@
 # DBR
 SANITÆЯR ge© db₽Э€$ENTS: dbRAdio Building a 1920's Tube Amplifier And Tubes! On video at the begining presented inside diode bildung or frÅჼ logic part of detalj to lodgment ...
 
-## Project to build upp an RAdi
+## Project to build upp an RAdi°©
 
 *on thumbinal image of the video, shown similarythys of inside diode micro schemm logic with city quartier lodgment, discovered by my roots, evacuated, saved & well presented untill fri times, leaving to us increadible material of KNIgdOM*
 
