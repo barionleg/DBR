@@ -1,0 +1,1246 @@
+put it in my ears
+
+[Music]
+
+okay so today we will be showing how to
+
+construct a 1920s style tube amplifier
+
+including
+
+making the tubes for it
+
+this was a really fun project and I
+
+think it turned out really good
+
+so please enjoy
+
+okay so we are going to start the
+
+construction by making the base stems
+
+for the two tubes here's an example
+
+right here
+
+you can see it has copper leads coming
+
+out of the bottom to connect to the tube
+
+and those are spot welded with a tiny
+
+piece of nickel to a piece of tungsten
+
+wire that forms the actual hermetic seal
+
+and then up here there is a piece of
+
+Steel that welds to the tungsten that we
+
+connect to inside the tube
+
+so let's just get started on making that
+
+okay so we have our copper wires here
+
+and we have our strip of nickel and what
+
+we do is we just put this on the end
+
+like that
+
+then we take our cutters
+
+okay so it's now time to weld on our
+
+tungsten wire that's going to make the
+
+actual seal in the glass I'm using 0.24
+
+millimeter tungsten wire
+
+and I just polished that to a mirror
+
+finish using 220 grit sandpaper
+
+and we are just going to weld like a
+
+centimeter or so
+
+to each one of these and cut it off
+
+all right
+
+okay so we're now going to make the top
+
+part that's going to go inside the tube
+
+I have this piece of Steel that I heated
+
+up in the flame to
+
+outgass it I'm just gonna
+
+okay so we got these made now we're
+
+going to weld them on
+
+but first we're going to
+
+just very gently
+
+crimp the ends
+
+just a little bit to put a little flat
+
+spot on there
+
+to make it easier to weld
+
+okay so that's what the electrodes are
+
+going to look like
+
+now we can get started on actual glass
+
+work we're going to have to make the
+
+flare that these pinch into
+
+[Music]
+
+[Music]
+
+[Music]
+
+foreign
+
+[Applause]
+
+[Music]
+
+[Applause]
+
+[Music]
+
+foreign
+
+so we have our two flares
+
+and now we have to expand the glass out
+
+such that we can fit our wires
+
+foreign
+
+foreign
+
+now before we conceal
+
+these wires in the pinches we just made
+
+we have to make a oxide coating on the
+
+surface of the tungsten
+
+in order to create a hermetic seal in
+
+the glass
+
+and to do that we're just going to heat
+
+these in the torch on low heat
+
+and then we're going to clean it off
+
+with a little bit of flux remover and
+
+then we're going to heat it up one more
+
+time just to drive off any remaining
+
+solvent and I've had pretty good luck
+
+with that giving me the correct seal
+
+color
+
+foreign
+
+[Applause]
+
+foreign
+
+[Laughter]
+
+okay that's what it's going to look like
+
+now we just have to seal it in the glass
+
+[Applause]
+
+foreign
+
+[Applause]
+
+foreign
+
+[Music]
+
+[Applause]
+
+okay I'll wait for that to cool and I'll
+
+take a look at the seal color
+
+foreign
+
+okay so I ended up making a few
+
+different seals here's one of them
+
+I just have it in this tube filled with
+
+acetone because it gives us a bit of
+
+magnification so it can get a better
+
+look
+
+and you can see right at the bottom
+
+right here we have the correct seal
+
+color
+
+and that would work you only need a
+
+millimeter or two of that correct golden
+
+color of the tungsten to make a good
+
+seal but it's really not ideal we would
+
+really like to use that entire length of
+
+wire
+
+so I gave it another shot
+
+got this seal
+
+see that one's better use about half the
+
+tungsten this one we use pretty much all
+
+of it that one these are about halfway
+
+up there
+
+like
+
+if you're able to
+
+get the whole length
+
+that's really really what you want to
+
+aim for uh
+
+having the seal that looks like this
+
+with the correct color going all the way
+
+you can be a hundred percent sure that
+
+that's not going to leak whatsoever that
+
+having the text in this correct color is
+
+pretty much the best way to make sure
+
+that you have a good seal through the
+
+glass
+
+okay so we're going to start
+
+constructing the tube elements now
+
+cut these off
+
+so this one on the end is going to be
+
+the plate and I'm going to cut that
+
+short
+
+this one is going to be one of the
+
+filament supports this one's going to be
+
+a grid
+
+this is going to be the other filament
+
+support
+
+we're going to do for the one in the
+
+middle is we're going to
+
+cut it off short
+
+just bend it over
+
+and that's what the
+
+wire Arrangement is going to look like
+
+so now we're going to make the grids for
+
+these two tubes
+
+and that's going to be pretty much the
+
+only difference between these two tubes
+
+this one's going to be a voltage
+
+amplifier and for that we're going to
+
+space the grid closer together that will
+
+give us a higher voltage gain but less
+
+current will be able to flow through the
+
+tube because the grid itself it
+
+restricts the flow of electrons
+
+so if you have it closer together less
+
+electrons will be able to get through
+
+this one's going to be the power
+
+amplifier and we just want a whole bunch
+
+of current to be able to flow through
+
+this
+
+so we're going to space the grid wider
+
+apart for that
+
+and for that I'm just going to take this
+
+copper wire
+
+and I'm just going to wind it around
+
+this form right here and maybe do about
+
+like
+
+10 or 11 turns or so
+
+okay here are the finished grids
+
+I went ahead and I crimped some nickel
+
+on the end there
+
+and these are just going to weld on
+
+right there
+
+foreign
+
+for the plates we're going to use this
+
+nickel sheet
+
+and what we're going to do to connect it
+
+the bottom here
+
+we're going to cut off
+
+a strip on each side right here and just
+
+leave a little tab in the middle
+
+that we're going to bend around
+
+that connection right there
+
+so it will all be one piece
+
+foreign
+
+and before I weld it
+
+down there I'm going to weld an extra
+
+piece of nickel at the top right here to
+
+attach the getter
+
+this is going to be the support for the
+
+upper connection to the filament
+
+to keep the filament under tension we
+
+need to put a spring at the top
+
+and we're going to use the 0.24
+
+millimeter tuxton wire for that again
+
+and we're just going to bend this
+
+into sort of a
+
+hook shape
+
+and weld a bit of that on the top to act
+
+as the spring
+
+foreign
+
+now we've got to attach the filament
+
+and for that I'm using 0.11 millimeter
+
+tungsten wire
+
+and I just have a little piece of nickel
+
+spot welded on the end
+
+and we just got to fish this through
+
+and weld it on the bottom
+
+okay so now we're going to make the
+
+getter
+
+I'm going to use 20 gauge titanium wire
+
+and I'm just going to wind
+
+three Loops of it on here and weld each
+
+one
+
+okay this one is done now we're going to
+
+make an envelope for it
+
+got to make the evacuation stem now
+
+[Music]
+
+foreign
+
+foreign
+
+we're going to attach the evacuation
+
+stem
+
+[Music]
+
+okay so we got to cut this to length now
+
+this has got to go in there like that
+
+we have about half inch of extra glass
+
+at the bottom we have to get rid of
+
+so what we're going to do is we're going
+
+to score this around
+
+and then we're going to heat up a piece
+
+of glass very hot and just press it
+
+right there where the crack is and
+
+hopefully the crack will
+
+propagate around and it will make us a
+
+relatively clean break
+
+thank you
+
+okay let's try to whack it
+
+okay
+
+not quite even but we can just nip that
+
+off with some pliers and that will be
+
+fine while we're at it
+
+I'm gonna take this off
+
+[Music]
+
+[Applause]
+
+okay let's try to give this a test fit
+
+okay so it looks like we're hitting
+
+right there
+
+so I'm going to take this to the grinder
+
+and I'm just going to knock a little bit
+
+of glass off there
+
+okay so this
+
+fits in there nicely
+
+so now we're just going to wash it off
+
+in some acetone
+
+and then heat it a little bit with the
+
+Torches to drive off the acetone vapor
+
+and then we should be ready to seal that
+
+in this
+
+foreign
+
+let's give it a shot
+
+foreign
+
+foreign
+
+foreign
+
+[Applause]
+
+Okay so we've got the tube on the pump
+
+and I'm gonna check it for leaks using
+
+the high voltage Supply
+
+[Music]
+
+we have no blue glow at all and that
+
+tells us we have a good seal
+
+[Music]
+
+so now what we're going to do is we're
+
+just going to heat this up with the
+
+torch to try to outgass it and once
+
+we've done that for a while we're going
+
+to hook the bombarder up to this to
+
+drive the plate to red heat to try to
+
+outgass that as well
+
+[Music]
+
+okay so I have the tube hooked up to the
+
+tube tester and I'm gonna see if I'm
+
+able to
+
+get some life out of it
+
+[Music]
+
+yeah looks like we're getting some
+
+France conductance out of it
+
+[Music]
+
+okay so we got the tube hooked up to the
+
+Bombardier
+
+uh that's this right here this can
+
+supply 500 volts up to 200 milliamps but
+
+um we'll probably only get about 25
+
+through this tube but that's still like
+
+about 12 Watts or so
+
+so we'll we'll still get this plate uh
+
+red hot and that will hopefully drive
+
+out any gas frappy in it
+
+[Music]
+
+so I'm going to bring that up to
+
+[Music]
+
+500 volts
+
+and I'm going to bring up the filament
+
+voltage
+
+[Music]
+
+right now we're only getting about 10
+
+milliamps through there
+
+[Music]
+
+thank you
+
+okay so we can see the plate is starting
+
+to glow red
+
+we're passing about 25 milliamps through
+
+the tube
+
+just paying about 12 Watts or so
+
+and I'm just going to let it sit like
+
+this for a few minutes to try to get out
+
+as much gas as I can and then slowly
+
+ramp it back down
+
+[Music]
+
+foreign
+
+[Music]
+
+up to the tube tester again
+
+[Music]
+
+looks like it's still working
+
+so I'm just going to heat together a
+
+small amount with the induction heater
+
+just to drive out any last bits of gas
+
+that are trapped into it we'll seal it
+
+off and then we'll heat together once
+
+again once it's sealed
+
+[Music]
+
+[Music]
+
+foreign
+
+Let's test it
+
+okay so I have the tube hooked up and
+
+let's see if it still works
+
+okay that looks like it's working
+
+so that's adjusting the plate voltage
+
+the grid voltage
+
+and this is adjusting the drive
+
+so that seems to be working
+
+okay let's finish the next one
+
+[Applause]
+
+okay so this is the starting point of
+
+the tube amp so I'm going to build it on
+
+this piece of wood
+
+uh
+
+I have this old uh
+
+tin plated copper wire that I'm going to
+
+use for the connections and uh
+
+just going to use these brass nails for
+
+the posts into the wood
+
+and all the components we need we're
+
+just going to attach them to nails that
+
+are hammered in here so I think I'm just
+
+going to start by uh
+
+putting the strips down for the ground
+
+and the high voltage
+
+by pulling the wire like this we can get
+
+it completely straight without any kinks
+
+in it
+
+okay so those are bent
+
+foreign
+
+and I'm just going to use that to get
+
+the pattern for the nails and we're
+
+going to put these tubes on
+
+last
+
+because there's other stuff we gotta
+
+nail on here and I don't want to subject
+
+these to that vibration too much
+
+okay so here's how it's mocked up right
+
+now
+
+I looked through my collection of dog
+
+bone resistors
+
+and I was able to pick out a few that I
+
+think will work for this
+
+for the first stage I'm going to use a
+
+1.5 Meg for the input resistor to the
+
+first grid to ground
+
+and then I think I'm going to try to do
+
+a 130k plate resistor for the first tube
+
+and then there's also going to be a
+
+choke
+
+in the plate Circuit of this tube
+
+because I find that that increases
+
+volume a little bit
+
+then we're going to have a
+
+435k resistor right here from the second
+
+grid to ground
+
+and then we're using
+
+another one of those Transformers is the
+
+output transformer for this
+
+these have a primary resistance of about
+
+700 ohms and then a secondary resistance
+
+of a few ohms so I hope those will be an
+
+Okay match for these tubes
+
+but uh that will be seen
+
+so I think I'll just start by getting
+
+these uh
+
+resistors soldered in there
+
+okay here it is so far
+
+I have these three resistors installed
+
+we also have the schematic right here
+
+here are those three resistors
+
+and uh
+
+change the wiring a little bit
+
+previously I was going to wire these
+
+tubes in parallel
+
+but I think it's going to be a better
+
+idea to wire them in series because it
+
+will decrease the current required and
+
+we'll also be able to get away with just
+
+having one
+
+variable resistor
+
+for their filament adjustment
+
+is able to find this old
+
+filament riostat
+
+it will work pretty good
+
+and as far as these Transformers go I'm
+
+going to use these doorbell Transformers
+
+this one right here is just going to act
+
+like a choke to give us a little bit
+
+more
+
+audio volume on the first stage and I'm
+
+going to use the second one as the audio
+
+output Transformer
+
+and uh I can't bring myself to
+
+cut off the prongs right here so we're
+
+just going to mount them on a few pieces
+
+of wood
+
+something like that
+
+and that should look halfway decent
+
+but
+
+tons
+
+foreign
+
+[Music]
+
+foreign
+
+[Music]
+
+okay here's how it looks so far
+
+unfortunately the tube that was going to
+
+be in this position uh
+
+got a pretty hard whack and it ended up
+
+uh breaking the filament so I had to put
+
+in a different tube that I already had
+
+so that's a bit unfortunate
+
+but now we're at the point where we have
+
+to get these leads soldered to these
+
+nails and at first I was just going to
+
+bend them around and solder them but uh
+
+that's actually going to be a pretty
+
+tough thing to try to do and undo if I
+
+need to swap
+
+tubes in and out
+
+so I have these little uh
+
+pieces of brass shim
+
+and I'm gonna cut a slot into them have
+
+a tiny hole in the middle
+
+and basically just slip them
+
+in the middle of each one of these nails
+
+and that will give me sort of a platform
+
+to solder to without having to bend the
+
+leads and if I have to unsolder them I
+
+can quickly just heat this up and pull
+
+it back up again
+
+foreign
+
+so I think I'm going to end up just
+
+pulling the nails out
+
+sliding them underneath that might end
+
+up being just as much trouble as cutting
+
+a slot in these
+
+okay so this is how those turned out I
+
+think they look pretty good
+
+so the last thing to do is uh
+
+get this control mounted this is going
+
+to be the filament riostat
+
+and then after that we can get the tube
+
+soldered in and start to test this thing
+
+I thought you guys might want a quick
+
+look inside this very very old riostat
+
+so I took the cover off
+
+and it's actually has uh gearing in it
+
+so here's the resist resistance wire
+
+right here
+
+and then there's a little gear reduction
+
+to give you a fine control over that
+
+very very complicated
+
+kind of over engineered but pretty
+
+pretty cool looking
+
+so as you can see this control is
+
+missing a lead
+
+so we got to attach something to that I
+
+think I'm gonna
+
+cut off another small piece of brass
+
+for that
+
+Okay so we've got a brass strip right
+
+here and we've drilled five holes
+
+through it such that when we solder this
+
+uh the solder is going to have support
+
+from both sides of the metal
+
+there's our fixed control
+
+trying to figure out how to mount it
+
+either could take a piece of metal
+
+bend it from here bend it down at an
+
+angle mounted like that or I could do it
+
+with a piece of wood
+
+something like that
+
+main issue is going to be trying to have
+
+it
+
+stiff because it's going to be sort of
+
+cantilevered over here and you
+
+try to turn the knob and it could be
+
+really weak right here so
+
+that's going to be non-trivial to figure
+
+out
+
+okay so for mounting the riostat I'm
+
+going to cut out a piece of brass for
+
+that this is just a
+
+a brass cover that would go on a door
+
+or something like that
+
+and I think I'm just gonna
+
+do something like this
+
+I'm gonna do a rough rough shape like
+
+this
+
+and
+
+once we cut it out we'll make it all
+
+pretty
+
+[Music]
+
+foreign
+
+foreign
+
+got a hollow brass tube that is
+
+sharpened at the end
+
+I'm just gonna punch a hole
+
+and I'm just going to bend the paper
+
+foreign
+
+s the pot
+
+and we're going to use that to make our
+
+Center hole
+
+foreign
+
+okay so for screws I got these
+
+these are not ideal for wood
+
+because they have a fine pitch thread so
+
+probably to get enough grip we might
+
+have to put a little Super Glue on these
+
+when we screw these in
+
+but that that should be fine no one will
+
+know about that
+
+so I'm just gonna
+
+drill two pilot holes here and then
+
+drill them out larger for the screws
+
+foreign
+
+foreign
+
+foreign
+
+last thing we've got to do
+
+we got to get our coupling caps in there
+
+I have a bunch of these old
+
+I think they're Mica caps they might be
+
+paper
+
+I'm gonna have to test them to see if
+
+they're leaky
+
+looking through uh my old capacitors I
+
+was initially going to go with these it
+
+actually turns out that these are paper
+
+on the inside so like they're they all
+
+test a super leaky
+
+um
+
+I was able to find these uh these nice
+
+Mica caps these are really really
+
+overkill for this but they're one of the
+
+few old caps I have
+
+it's not going to be leaky
+
+so I was able to get two of those
+
+I'll just put one of them here
+
+one of them here
+
+something like that
+
+and then we can finally call this done
+
+okay we have got the tube amp hooked up
+
+here's how it looks all finished up
+
+hooked up to a speaker just a crappy
+
+test speaker
+
+the tube tester which will give us our
+
+power
+
+and for the signal Source I'm just using
+
+an AM radio right there
+
+okay let's see what it will do
+
+put it in my ears
+
+[Music]
+
+of fire roaring at my back
+
+as she disappeared
+
+but soon
+
+[Music]
+
+lips
+
+[Music]
+
+the way
+
+is my story it's sad the truth
+
+so as you can see it's not exactly Hi-Fi
+
+I think that's due to uh the the mains
+
+Transformers I'm using right here
+
+probably not optimized for audio in any
+
+way uh
+
+also if you're doing a single-ended uh
+
+tube amplifier like this you want a
+
+Transformer that has a gap in the core
+
+otherwise you can get a saturation in
+
+the core and it will add distortion
+
+so there is a a number of things uh
+
+against us here
+
+but you know it sort of works and
+
+that's good enough for me uh pretty much
+
+completely scratch Bill tube amplifier
+
+kind of unique so that's pretty cool
+
+thank you very much for watching
+
+[Music]
+
+[Applause]
+
+[Music]
+
+the people
+
+[Music]
+
+[Music]
+
